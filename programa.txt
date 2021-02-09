@@ -1,4 +1,5 @@
 static void main()
 {
 int a,b;
+a=6,b=8;
 }
